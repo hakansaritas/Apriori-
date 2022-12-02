@@ -1,0 +1,93 @@
+products,gassy sediment,mud volcano,mud diapir,feeder channel,fault,gas flow,gas plume,pockmark,carbonate structure,gas acummulation,anticline,monocline,channel,erosional surface
+"('mud volcano', 'gas flow', 'gas plume', 'gas acummulation')",0,1,0,0,0,1,1,0,0,1,0,0,0,0
+"('gassy sediment', 'mud volcano', 'gas plume', 'anticline')",1,1,0,0,0,0,1,0,0,0,1,0,0,0
+"('feeder channel', 'gas flow', 'gas acummulation', 'erosional surface')",0,0,0,1,0,1,0,0,0,1,0,0,0,1
+"('mud diapir', 'gas plume', 'pockmark', 'gas acummulation')",0,0,1,0,0,0,1,1,0,1,0,0,0,0
+"('mud volcano', 'fault', 'erosional surface')",0,1,0,0,1,0,0,0,0,0,0,0,0,1
+"('mud volcano', 'carbonate structure', 'monocline', 'erosional surface')",0,1,0,0,0,0,0,0,1,0,0,1,0,1
+"('feeder channel', 'gas acummulation', 'monocline')",0,0,0,1,0,0,0,0,0,1,0,1,0,0
+"('pockmark', 'anticline', 'erosional surface')",0,0,0,0,0,0,0,1,0,0,1,0,0,1
+"('feeder channel', 'fault', 'gas flow', 'gas plume')",0,0,0,1,1,1,1,0,0,0,0,0,0,0
+"('erosional surface',)",0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"('pockmark', 'carbonate structure', 'channel', 'erosional surface')",0,0,0,0,0,0,0,1,1,0,0,0,1,1
+"('gassy sediment', 'pockmark', 'gas acummulation', 'monocline')",1,0,0,0,0,0,0,1,0,1,0,1,0,0
+"('mud diapir', 'gas flow', 'pockmark', 'monocline')",0,0,1,0,0,1,0,1,0,0,0,1,0,0
+"('gassy sediment', 'fault', 'pockmark', 'monocline')",1,0,0,0,1,0,0,1,0,0,0,1,0,0
+"('mud volcano', 'gas flow', 'gas acummulation', 'erosional surface')",0,1,0,0,0,1,0,0,0,1,0,0,0,1
+"('gassy sediment', 'mud diapir', 'gas flow', 'monocline')",1,0,1,0,0,1,0,0,0,0,0,1,0,0
+"('pockmark', 'carbonate structure', 'anticline', 'monocline')",0,0,0,0,0,0,0,1,1,0,1,1,0,0
+"('gassy sediment', 'gas plume', 'monocline', 'channel')",1,0,0,0,0,0,1,0,0,0,0,1,1,0
+"('gassy sediment', 'mud volcano', 'pockmark', 'channel')",1,1,0,0,0,0,0,1,0,0,0,0,1,0
+"('mud diapir', 'feeder channel', 'gas flow', 'gas plume')",0,0,1,1,0,1,1,0,0,0,0,0,0,0
+"('gassy sediment', 'fault', 'anticline', 'erosional surface')",1,0,0,0,1,0,0,0,0,0,1,0,0,1
+"('gassy sediment', 'mud diapir', 'gas acummulation', 'anticline')",1,0,1,0,0,0,0,0,0,1,1,0,0,0
+"('gassy sediment', 'gas flow')",1,0,0,0,0,1,0,0,0,0,0,0,0,0
+"('mud volcano', 'mud diapir', 'feeder channel', 'gas plume')",0,1,1,1,0,0,1,0,0,0,0,0,0,0
+"('gassy sediment', 'mud volcano', 'mud diapir', 'gas flow')",1,1,1,0,0,1,0,0,0,0,0,0,0,0
+"('gassy sediment', 'mud volcano', 'fault', 'channel')",1,1,0,0,1,0,0,0,0,0,0,0,1,0
+"('fault', 'gas flow', 'gas plume', 'anticline')",0,0,0,0,1,1,1,0,0,0,1,0,0,0
+"('fault', 'gas acummulation', 'anticline', 'monocline')",0,0,0,0,1,0,0,0,0,1,1,1,0,0
+"('feeder channel', 'gas flow', 'pockmark', 'anticline')",0,0,0,1,0,1,0,1,0,0,1,0,0,0
+"('gas flow', 'gas acummulation', 'anticline', 'channel')",0,0,0,0,0,1,0,0,0,1,1,0,1,0
+"('gassy sediment', 'feeder channel', 'fault', 'gas acummulation')",1,0,0,1,1,0,0,0,0,1,0,0,0,0
+"('feeder channel', 'fault', 'pockmark')",0,0,0,1,1,0,0,1,0,0,0,0,0,0
+"('gassy sediment', 'feeder channel', 'carbonate structure')",1,0,0,1,0,0,0,0,1,0,0,0,0,0
+"('feeder channel', 'gas flow', 'pockmark')",0,0,0,1,0,1,0,1,0,0,0,0,0,0
+"('gas flow', 'gas plume', 'monocline', 'channel')",0,0,0,0,0,1,1,0,0,0,0,1,1,0
+"('fault', 'gas flow', 'channel', 'erosional surface')",0,0,0,0,1,1,0,0,0,0,0,0,1,1
+"('mud volcano', 'fault', 'gas flow', 'carbonate structure')",0,1,0,0,1,1,0,0,1,0,0,0,0,0
+"('feeder channel', 'pockmark')",0,0,0,1,0,0,0,1,0,0,0,0,0,0
+"('mud diapir', 'anticline', 'monocline')",0,0,1,0,0,0,0,0,0,0,1,1,0,0
+"('gassy sediment', 'mud volcano', 'fault', 'pockmark')",1,1,0,0,1,0,0,1,0,0,0,0,0,0
+"('gas flow', 'pockmark', 'monocline')",0,0,0,0,0,1,0,1,0,0,0,1,0,0
+"('mud volcano', 'fault', 'gas plume', 'carbonate structure')",0,1,0,0,1,0,1,0,1,0,0,0,0,0
+"('feeder channel', 'carbonate structure', 'channel')",0,0,0,1,0,0,0,0,1,0,0,0,1,0
+"('feeder channel', 'gas plume', 'pockmark', 'monocline')",0,0,0,1,0,0,1,1,0,0,0,1,0,0
+"('gas plume', 'pockmark', 'gas acummulation', 'channel')",0,0,0,0,0,0,1,1,0,1,0,0,1,0
+"('fault', 'gas flow', 'channel')",0,0,0,0,1,1,0,0,0,0,0,0,1,0
+"('mud volcano', 'mud diapir', 'monocline', 'erosional surface')",0,1,1,0,0,0,0,0,0,0,0,1,0,1
+"('mud diapir', 'fault', 'pockmark', 'erosional surface')",0,0,1,0,1,0,0,1,0,0,0,0,0,1
+"('gas plume', 'pockmark', 'erosional surface')",0,0,0,0,0,0,1,1,0,0,0,0,0,1
+"('gas flow', 'gas plume')",0,0,0,0,0,1,1,0,0,0,0,0,0,0
+"('mud volcano', 'feeder channel', 'anticline', 'monocline')",0,1,0,1,0,0,0,0,0,0,1,1,0,0
+"('mud volcano', 'mud diapir', 'gas flow', 'anticline')",0,1,1,0,0,1,0,0,0,0,1,0,0,0
+"('fault', 'gas plume', 'carbonate structure', 'gas acummulation')",0,0,0,0,1,0,1,0,1,1,0,0,0,0
+"('gassy sediment', 'mud volcano', 'fault', 'gas flow')",1,1,0,0,1,1,0,0,0,0,0,0,0,0
+"('gassy sediment', 'carbonate structure', 'gas acummulation')",1,0,0,0,0,0,0,0,1,1,0,0,0,0
+"('feeder channel', 'carbonate structure', 'channel', 'erosional surface')",0,0,0,1,0,0,0,0,1,0,0,0,1,1
+"('mud volcano', 'mud diapir', 'fault', 'monocline')",0,1,1,0,1,0,0,0,0,0,0,1,0,0
+"('gassy sediment', 'gas acummulation', 'erosional surface')",1,0,0,0,0,0,0,0,0,1,0,0,0,1
+"('mud diapir', 'feeder channel', 'pockmark', 'channel')",0,0,1,1,0,0,0,1,0,0,0,0,1,0
+"('pockmark', 'gas acummulation', 'anticline', 'erosional surface')",0,0,0,0,0,0,0,1,0,1,1,0,0,1
+"('gas plume', 'monocline', 'channel')",0,0,0,0,0,0,1,0,0,0,0,1,1,0
+"('mud volcano', 'feeder channel', 'carbonate structure', 'erosional surface')",0,1,0,1,0,0,0,0,1,0,0,0,0,1
+"('gassy sediment', 'mud volcano', 'anticline', 'erosional surface')",1,1,0,0,0,0,0,0,0,0,1,0,0,1
+"('gassy sediment', 'fault', 'erosional surface')",1,0,0,0,1,0,0,0,0,0,0,0,0,1
+"('mud diapir', 'gas plume', 'pockmark', 'carbonate structure')",0,0,1,0,0,0,1,1,1,0,0,0,0,0
+"('mud diapir', 'gas flow', 'pockmark', 'erosional surface')",0,0,1,0,0,1,0,1,0,0,0,0,0,1
+"('mud volcano', 'gas flow', 'monocline', 'channel')",0,1,0,0,0,1,0,0,0,0,0,1,1,0
+"('fault', 'gas plume', 'carbonate structure', 'anticline')",0,0,0,0,1,0,1,0,1,0,1,0,0,0
+"('mud diapir', 'fault', 'anticline', 'channel')",0,0,1,0,1,0,0,0,0,0,1,0,1,0
+"('gassy sediment', 'feeder channel', 'pockmark', 'erosional surface')",1,0,0,1,0,0,0,1,0,0,0,0,0,1
+"('gassy sediment', 'mud volcano', 'feeder channel', 'erosional surface')",1,1,0,1,0,0,0,0,0,0,0,0,0,1
+"('gassy sediment', 'mud diapir', 'carbonate structure', 'monocline')",1,0,1,0,0,0,0,0,1,0,0,1,0,0
+"('mud diapir', 'pockmark', 'monocline', 'channel')",0,0,1,0,0,0,0,1,0,0,0,1,1,0
+"('gas flow', 'carbonate structure')",0,0,0,0,0,1,0,0,1,0,0,0,0,0
+"('gassy sediment', 'mud diapir', 'feeder channel', 'erosional surface')",1,0,1,1,0,0,0,0,0,0,0,0,0,1
+"('mud volcano', 'mud diapir', 'fault', 'gas flow')",0,1,1,0,1,1,0,0,0,0,0,0,0,0
+"('gassy sediment', 'carbonate structure', 'channel', 'erosional surface')",1,0,0,0,0,0,0,0,1,0,0,0,1,1
+"('gas flow', 'gas acummulation', 'anticline')",0,0,0,0,0,1,0,0,0,1,1,0,0,0
+"('fault', 'gas plume', 'pockmark', 'anticline')",0,0,0,0,1,0,1,1,0,0,1,0,0,0
+"('feeder channel', 'pockmark', 'carbonate structure', 'anticline')",0,0,0,1,0,0,0,1,1,0,1,0,0,0
+"('gas flow', 'gas acummulation', 'anticline', 'erosional surface')",0,0,0,0,0,1,0,0,0,1,1,0,0,1
+"('gassy sediment', 'mud diapir', 'pockmark', 'erosional surface')",1,0,1,0,0,0,0,1,0,0,0,0,0,1
+"('mud diapir', 'fault', 'anticline', 'erosional surface')",0,0,1,0,1,0,0,0,0,0,1,0,0,1
+"('gassy sediment', 'mud volcano', 'gas plume', 'channel')",1,1,0,0,0,0,1,0,0,0,0,0,1,0
+"('mud volcano', 'gas flow', 'gas plume', 'pockmark')",0,1,0,0,0,1,1,1,0,0,0,0,0,0
+"('mud volcano', 'feeder channel', 'gas flow', 'gas acummulation')",0,1,0,1,0,1,0,0,0,1,0,0,0,0
+"('mud diapir', 'feeder channel', 'gas acummulation', 'channel')",0,0,1,1,0,0,0,0,0,1,0,0,1,0
+"('mud diapir', 'fault', 'gas flow', 'channel')",0,0,1,0,1,1,0,0,0,0,0,0,1,0
+"('mud volcano', 'feeder channel', 'fault', 'carbonate structure')",0,1,0,1,1,0,0,0,1,0,0,0,0,0
+"('gassy sediment', 'feeder channel', 'pockmark', 'carbonate structure')",1,0,0,1,0,0,0,1,1,0,0,0,0,0
+"('feeder channel', 'gas flow', 'pockmark', 'channel')",0,0,0,1,0,1,0,1,0,0,0,0,1,0
+"('mud volcano', 'mud diapir', 'pockmark', 'gas acummulation')",0,1,1,0,0,0,0,1,0,1,0,0,0,0
